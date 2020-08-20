@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077802608824",
+    "firebase_url": "https://testnotification-35782.firebaseio.com",
+    "project_id": "testnotification-35782",
+    "storage_bucket": "testnotification-35782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077802608824:android:bb2186f370f2bdedf32c4d",
+        "android_client_info": {
+          "package_name": "appsticit.xyz.flutter_fsqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077802608824-ac7p4b8igvjead15b5gsa360pbthvkeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgK8PAlrEOdVeCYkfFU2p2BAWDb-lQJYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077802608824-ac7p4b8igvjead15b5gsa360pbthvkeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
